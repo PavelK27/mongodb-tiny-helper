@@ -1,0 +1,21 @@
+{
+  "name": "mongodb-tiny-helper",
+  "version": "1.0.0",
+  "description": "Simple set of CRUD operations for MongoDB driver in node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "mongodb",
+    "crud",
+    "helper",
+    "nodejs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PavelK27/mongodb-tiny-helper.git"
+  },
+  "author": "PavelK27",
+  "license": "MIT"
+}
