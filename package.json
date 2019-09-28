@@ -1,6 +1,6 @@
 {
   "name": "mongodb-tiny-helper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple set of CRUD operations for MongoDB driver in node.js",
   "main": "index.js",
   "scripts": {
