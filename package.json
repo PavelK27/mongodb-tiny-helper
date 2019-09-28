@@ -17,5 +17,8 @@
     "url": "git+https://github.com/PavelK27/mongodb-tiny-helper.git"
   },
   "author": "PavelK27",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "mongodb": "^3.3.2"
+  }
 }
